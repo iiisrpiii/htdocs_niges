@@ -1,0 +1,73 @@
+/* CSS MAIN Niges.ru  */
+
+*, html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td {	margin:0;	padding:0;}
+table {	border-collapse:collapse;	border-spacing:0;}
+fieldset, img {	border:0;}
+address, caption, cite, code, dfn, em, strong, th, var {	font-style:normal;	font-weight:normal;}
+ol, ul, li {	list-style:none;}
+caption, th {	text-align:left;}
+h1, h2, h3, h4, h5, h6 {	font-size:100%;	font-weight:normal;}
+q:before, q:after {	content:'';}
+a {	text-decoration:none;}
+/*********************************************************/
+br.clear {clear:both;} /* Для разрыва колонок */
+/*********************************************************/
+body {	font-family: Arial, Helvetica,  sans-serif ;	background: #18222c;}
+body p {	font-size:12px;	line-height:18px;	margin:0px 0px 20px 0px;	color:#ccc;}
+h2 {	font-size:30px;}
+strong {	font-weight:bold;}
+em {	font-style:italic;}
+em strong {	font-weight:bold;	font-style:italic;}
+strong em {	font-weight:bold;	font-style:italic;}
+a:focus {	outline:none;}
+a img {	border:none;}
+#omc-wrapper {z-index:99992;	width:1020px;	margin-top:0px;	background: #fff;	height:680px; margin:0px auto 0px;	padding:0px;}
+ 
+/******************************* Основная часть **************************/
+ body {background: #000 url(../images/bgdark_n2.jpg) scroll ;}	#fancybox-left-ico {left: 20px;}  
+#fancybox-right-ico {right: 20px;left: auto;}	.no-js {display: none !important;}	ol.inception-mini-pagination li a {filter: alpha(opacity=30);}	
+ol.inception-mini-pagination li a.inception-active {filter: alpha(opacity=90);}
+
+
+/** Пагинация **/
+.pagination {	clear:both;	padding:40px 0;	position:relative;	font-size:11px;	line-height:13px;	margin-left:20px;}
+.pagination span, .pagination a {	display:block;	color:#333;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;
+	opacity:1;	background: rgb(255,255,255);
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(245,245,245,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5',GradientType=0 );
+	background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);}
+.pagination a:hover {	border:1px solid #DDD;	color:#777;	background:#EEE;}
+.pagination .current {	display:block;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;	opacity:1;	background:#EEE;}
+#pagination-blog-margin {	margin-left:-20px;	margin-top:-30px;}
+
+/**** Портфолио - галерея - фэнси ***********/
+.portfolio-modal-wrapper {	width:980px;	height:520px;	overflow:hidden;	background:#FFF;	margin:auto;	padding:20px 20px;}
+#modal-info-wrapper {	color:#555;	float:right;	width:250px;}
+#modal-info-wrapper h2 {	padding-bottom:15px;	font-size:36px;	color:#828593;	margin-bottom:20px;	padding-bottom:20px;	border-bottom:1px solid #e8e8e8;}
+#modal-info-wrapper p {	color:#888;	margin-top:12px;}
+#modal-info-wrapper p.absolute {	color:#888;	margin-top:38px; margin-left:5px; position:absolute;}
+#modal-info-wrapper h3 {	color:#FF0000;	margin-top:20px;	font-size:24px;	letter-spacing:1px;}
+#modal-info-wrapper h4 {	color:#FF0000;	margin-top:20px;	font-size:12px;	font-weight:bold;}
+#modal-info-wrapper ul {	margin:20px 0px;}
+#modal-info-wrapper ul  li {	font-size:12px;	color:#888;	margin:12px 0px 12px 0px;	text-indent:25px;	background:url(../images/tick.png) scroll transparent no-repeat;	background-position:0px -2px;}
+a.portfolio-visit-anchor {	font-size:24px;	width:130px;	text-align:center;	display:block;	margin:40px 0px 0px 70px;	padding:6px 20px 4px 20px;	color:#FFF;	-moz-border-radius: 10px;	-webkit-border-radius: 10px;}
+
+.content-center {background: rgb(35,35,35); padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+
+
+
+
+
+.faq-box1 {width:325px; padding:7px 0px 1px 0px; margin:5px 0px 0px 6px; float:left; background:rgb(85,85,85);
+	opacity: 0.8; -webkit-transition: opacity 0.5s;  -moz-transition: opacity 0.5s;  -o-transition: opacity 0.5s;
+	border-radius:4px;	-webkit-border-radius: 4px;	-moz-border-radius: 4px;	border-radius: 4px;}
+.faq-box1:hover {background:rgb(85,85,85);
+	opacity: 1.0; -webkit-transition: opacity 0.5s;  -moz-transition: opacity 0.5s;  -o-transition: opacity 0.5s;
+	border-radius:4px;	-webkit-border-radius: 4px;	-moz-border-radius: 4px;	border-radius: 4px;}
+.faq-box1 h1{color:white;}
+.faq-box1 h1:hover{color:rgb(255,250,170);}
+.faq-box1:hover h1{color:rgb(255,250,170);}
