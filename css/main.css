@@ -1,30 +1,5 @@
 ﻿MAIN
-еще доработли
-3 шаг
-/** ----- **/
-.pagination {	clear:both;	padding:40px 0;	position:relative;	font-size:11px;	line-height:13px;	margin-left:20px;}
-.pagination span, .pagination a {	display:block;	color:#333;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;
-	opacity:1;	background: rgb(255,255,255);
-	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(245,245,245,1)));
-	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
-	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
-	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5',GradientType=0 );
-	background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);}
-.pagination a:hover {	border:1px solid #DDD;	color:#777;	background:#EEE;}
-.pagination .current {	display:block;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;	opacity:1;	background:#EEE;}
-#pagination-blog-margin {	margin-left:-20px;	margin-top:-30px;}
-
-
-
-
-.faq-box1 {width:325px; padding:7px 0px 1px 0px; margin:5px 0px 0px 6px; float:left; background:rgb(85,85,85);
-	opacity: 0.8; -webkit-transition: opacity 0.5s;  -moz-transition: opacity 0.5s;  -o-transition: opacity 0.5s;
-	border-radius:4px;	-webkit-border-radius: 4px;	-moz-border-radius: 4px;	border-radius: 4px;}
-.faq-box1:hover {background:rgb(85,85,85);
-	opacity: 1.0; -webkit-transition: opacity 0.5s;  -moz-transition: opacity 0.5s;  -o-transition: opacity 0.5s;
-	border-radius:4px;	-webkit-border-radius: 4px;	-moz-border-radius: 4px;	border-radius: 4px;}
-.faq-box1 h1{color:white;}
-.faq-box1 h1:hover{color:rgb(255,250,170);}
-.faq-box1:hover h1{color:rgb(255,250,170);}
+ 
+ 
+ 
+ 
