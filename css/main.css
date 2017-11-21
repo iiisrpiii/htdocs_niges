@@ -1,0 +1,44 @@
+﻿MAIN
+еще доработли
+/** ----- **/
+.pagination {	clear:both;	padding:40px 0;	position:relative;	font-size:11px;	line-height:13px;	margin-left:20px;}
+.pagination span, .pagination a {	display:block;	color:#333;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;
+	opacity:1;	background: rgb(255,255,255);
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(245,245,245,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5',GradientType=0 );
+	background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(245,245,245,1) 100%);}
+.pagination a:hover {	border:1px solid #DDD;	color:#777;	background:#EEE;}
+.pagination .current {	display:block;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;	opacity:1;	background:#EEE;}
+#pagination-blog-margin {	margin-left:-20px;	margin-top:-30px;}
+
+/**** Ïîðòôîëèî - ãàëåðåÿ - ôýíñè ***********/
+.portfolio-modal-wrapper {	width:980px;	height:520px;	overflow:hidden;	background:#FFF;	margin:auto;	padding:20px 20px;}
+#modal-info-wrapper {	color:#555;	float:right;	width:250px;}
+#modal-info-wrapper h2 {	padding-bottom:15px;	font-size:36px;	color:#828593;	margin-bottom:20px;	padding-bottom:20px;	border-bottom:1px solid #e8e8e8;}
+#modal-info-wrapper p {	color:#888;	margin-top:12px;}
+#modal-info-wrapper p.absolute {	color:#888;	margin-top:38px; margin-left:5px; position:absolute;}
+#modal-info-wrapper h3 {	color:#FF0000;	margin-top:20px;	font-size:24px;	letter-spacing:1px;}
+#modal-info-wrapper h4 {	color:#FF0000;	margin-top:20px;	font-size:12px;	font-weight:bold;}
+#modal-info-wrapper ul {	margin:20px 0px;}
+#modal-info-wrapper ul  li {	font-size:12px;	color:#888;	margin:12px 0px 12px 0px;	text-indent:25px;	background:url(../images/tick.png) scroll transparent no-repeat;	background-position:0px -2px;}
+a.portfolio-visit-anchor {	font-size:24px;	width:130px;	text-align:center;	display:block;	margin:40px 0px 0px 70px;	padding:6px 20px 4px 20px;	color:#FFF;	-moz-border-radius: 10px;	-webkit-border-radius: 10px;}
+
+.content-center {background: rgb(35,35,35); padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+
+
+
+
+
+.faq-box1 {width:325px; padding:7px 0px 1px 0px; margin:5px 0px 0px 6px; float:left; background:rgb(85,85,85);
+	opacity: 0.8; -webkit-transition: opacity 0.5s;  -moz-transition: opacity 0.5s;  -o-transition: opacity 0.5s;
+	border-radius:4px;	-webkit-border-radius: 4px;	-moz-border-radius: 4px;	border-radius: 4px;}
+.faq-box1:hover {background:rgb(85,85,85);
+	opacity: 1.0; -webkit-transition: opacity 0.5s;  -moz-transition: opacity 0.5s;  -o-transition: opacity 0.5s;
+	border-radius:4px;	-webkit-border-radius: 4px;	-moz-border-radius: 4px;	border-radius: 4px;}
+.faq-box1 h1{color:white;}
+.faq-box1 h1:hover{color:rgb(255,250,170);}
+.faq-box1:hover h1{color:rgb(255,250,170);}
