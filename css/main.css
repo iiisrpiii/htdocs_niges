@@ -16,21 +16,6 @@
 .pagination .current {	display:block;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;	opacity:1;	background:#EEE;}
 #pagination-blog-margin {	margin-left:-20px;	margin-top:-30px;}
 
-/**** Ïîðòôîëèî - ãàëåðåÿ - ôýíñè ***********/
-.portfolio-modal-wrapper {	width:980px;	height:520px;	overflow:hidden;	background:#FFF;	margin:auto;	padding:20px 20px;}
-#modal-info-wrapper {	color:#555;	float:right;	width:250px;}
-#modal-info-wrapper h2 {	padding-bottom:15px;	font-size:36px;	color:#828593;	margin-bottom:20px;	padding-bottom:20px;	border-bottom:1px solid #e8e8e8;}
-#modal-info-wrapper p {	color:#888;	margin-top:12px;}
-#modal-info-wrapper p.absolute {	color:#888;	margin-top:38px; margin-left:5px; position:absolute;}
-#modal-info-wrapper h3 {	color:#FF0000;	margin-top:20px;	font-size:24px;	letter-spacing:1px;}
-#modal-info-wrapper h4 {	color:#FF0000;	margin-top:20px;	font-size:12px;	font-weight:bold;}
-#modal-info-wrapper ul {	margin:20px 0px;}
-#modal-info-wrapper ul  li {	font-size:12px;	color:#888;	margin:12px 0px 12px 0px;	text-indent:25px;	background:url(../images/tick.png) scroll transparent no-repeat;	background-position:0px -2px;}
-a.portfolio-visit-anchor {	font-size:24px;	width:130px;	text-align:center;	display:block;	margin:40px 0px 0px 70px;	padding:6px 20px 4px 20px;	color:#FFF;	-moz-border-radius: 10px;	-webkit-border-radius: 10px;}
-
-.content-center {background: rgb(35,35,35); padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
-
-
 
 
 
