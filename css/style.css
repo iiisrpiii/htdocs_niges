@@ -1,7 +1,7 @@
+﻿
 
 
-
-/** Ïàãèíàöèÿ **/
+/** ----- **/
 .pagination {	clear:both;	padding:40px 0;	position:relative;	font-size:11px;	line-height:13px;	margin-left:20px;}
 .pagination span, .pagination a {	display:block;	color:#333;	float:left;	border:1px solid #DDD;	text-transform:none;	color:#666;	padding:10px 15px;	margin:0px 7px 0px 0px;
 	opacity:1;	background: rgb(255,255,255);
